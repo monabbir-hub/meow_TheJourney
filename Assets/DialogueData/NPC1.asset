@@ -14,7 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dialogue:
   - Hello moo!
-  - Are you looking for something
-  - 'Go this Way
+  - I heard you are looking for your family Moo!
+  - 'In that case, you have to find a way to leave this Underworld in order to get
+    back to your Mortal World Moo!
 
 '
+  - Follow this path and find your way. There wil be more guardians to guide you
+    the way. It is your decision whether you will trust them or not Moo!
